@@ -2,10 +2,10 @@
     "state":0,
     "info":"",
     "data":{
-        "latest_version":"1.0",
-        "latest_version_code":"1",
+        "latest_version":"Dev 0.0.0.2",
+        "latest_version_code":"2",
         "minimum_version_code":"1",
-        "information":"测试更新",
-        "url":"https://www.lanzous.com/i8di1vg"
+        "information":"更新点赞界面\n但功能需要联调，完成后会将其上线。",
+        "url":"https://www.lanzous.com/i8yje4j"
     }
 }
